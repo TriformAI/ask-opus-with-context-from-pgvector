@@ -1,0 +1,4 @@
+llama-index
+llama-index-core
+llama-index-vector-stores-postgres
+llama-index-embeddings-cohere
